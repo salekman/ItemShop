@@ -1,12 +1,12 @@
-CID_675_Athena_Commando_M_TheGoldenSkeleton, 2000
-CID_653_Athena_Commando_F_UglySweaterFrozen, 2000
-EID_TacoTimeDance, 800
+CID_703_Athena_Commando_M_Cyclone, 2000
+Pickaxe_ID_294_CandyCane, 2500
+EID_TakeTheL, 5000
 na
 na
 na
-CID_431_Athena_Commando_F_StormPilot, 1200
-Pickaxe_ID_339_CODSquadHoodie, 800
-Glider_ID_125_Bandolier, 1200
-EID_WaveDance, 500
-CID_497_Athena_Commando_F_WildWest, 1200
-Wrap_132_BarbequeLarry, 500
+Wrap_230_Glacier, 500
+BID_496_TeriyakiFishAssassin, 500
+Glider_ID_196_CycloneMale, 1500
+EID_SquishyDance, 500
+CID_605_Athena_Commando_M_TourBus, 1500
+CID_577_Athena_Commando_F_CODSquadPlaid, 500
